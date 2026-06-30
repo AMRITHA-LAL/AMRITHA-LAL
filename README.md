@@ -1,16 +1,123 @@
-## Hi there 👋
+# Hi, I'm Amritha Lal 👋
 
-<!--
-**AMRITHA-LAL/AMRITHA-LAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student  
+💻 Diploma Computer Engineering Graduate  
+🚀 Interested in Software Development, Web Technologies, and Artificial Intelligence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a Computer Science Engineering student passionate about learning and building practical software projects.
+
+Currently, I am improving my skills in:
+
+- Programming
+- Web Development
+- Application Development
+- Git & GitHub
+- Modern technologies
+
+I enjoy transforming ideas into working applications and continuously learning new technologies.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+
+- Python
+- JavaScript
+- Dart
+
+### Web Development
+
+- HTML
+- CSS
+- JavaScript
+
+### Mobile Development
+
+- Flutter
+- Dart
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- AI Tools
+
+---
+
+## 🚀 Featured Projects
+
+### 🌊 TIDE AI - Productivity Application
+
+A productivity and task management mobile application concept.
+
+Features:
+
+- Task Management
+- Calendar Management
+- Productivity Tracking
+- AI Assistant Concept
+
+Technologies:
+
+- Flutter
+- Dart
+- Figma
+
+🔗 Portfolio:
+https://amritha-lal.github.io/amritha_portfolio/
+
+
+---
+
+### 🌐 Personal Portfolio Website
+
+A personal developer portfolio website showcasing my projects, skills, and learning journey.
+
+Built using:
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+
+🔗 Live Website:
+
+https://amritha-lal.github.io/amritha_portfolio/
+
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Python
+- JavaScript Development
+- Full Stack Development
+- Software Engineering Practices
+
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+
+https://www.linkedin.com/in/amritha-lal-8558aa262
+
+
+Portfolio:
+
+https://amritha-lal.github.io/amritha_portfolio/
+
+
+---
+
+⭐ Thanks for visiting my profile!
