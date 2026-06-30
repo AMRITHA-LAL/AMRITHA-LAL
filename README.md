@@ -1,4 +1,16 @@
-# Hi, I'm Amritha Lal 👋
+<div align="center">
+
+<img src="./profile.jpeg" width="180" height="180" style="border-radius:50%;" alt="Amritha Lal"/>
+
+<h1>
+Hi, I'm Amritha Lal 👋
+</h1>
+
+<p>
+B.Tech Computer Science & Engineering Student | Software Development Enthusiast
+</p>
+
+</div>
 
 🎓 B.Tech Computer Science & Engineering Student  
 💻 Diploma Computer Engineering Graduate  
