@@ -10,71 +10,95 @@ Hi, I'm Amritha Lal 👋
 B.Tech Computer Science & Engineering Student | Software Development Enthusiast
 </p>
 
+<p>
+Building projects, learning technologies, and exploring software development.
+</p>
+
+<p>
+
+<a href="https://amritha-lal.github.io/amritha_portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/amritha-lal-8558aa262">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
 </div>
 
-🎓 B.Tech Computer Science & Engineering Student  
-💻 Diploma Computer Engineering Graduate  
-🚀 Interested in Software Development, Web Technologies, and Artificial Intelligence
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I am a Computer Science Engineering student passionate about learning and building practical software projects.
+I am a B.Tech Computer Science & Engineering student with a Diploma background in Computer Engineering.
 
-Currently, I am improving my skills in:
+I am interested in:
 
-- Programming
+- Software Development
 - Web Development
-- Application Development
-- Git & GitHub
-- Modern technologies
+- Mobile Application Development
+- Python Programming
+- Artificial Intelligence Exploration
+- Modern Technologies
 
-I enjoy transforming ideas into working applications and continuously learning new technologies.
+Currently, I am building practical projects and improving my programming, development, and problem-solving skills through hands-on learning.
+
+I enjoy transforming ideas into functional applications and continuously exploring new technologies.
+
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Technical Skills
 
-### Programming Languages
+
+## Programming Languages
 
 - Python
 - JavaScript
 - Dart
 
-### Web Development
 
-- HTML
-- CSS
+## Web Development
+
+- HTML5
+- CSS3
 - JavaScript
 
-### Mobile Development
+
+## Mobile Development
 
 - Flutter
 - Dart
 
-### Tools & Technologies
+
+## Tools & Technologies
 
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 - Figma
 - AI Tools
 
+
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌊 TIDE AI - Productivity Application
 
-A productivity and task management mobile application concept.
+## 🌊 TIDE-AI Productivity Application
 
-Features:
+A productivity and task management mobile application prototype developed using Flutter.
 
-- Task Management
-- Calendar Management
-- Productivity Tracking
-- AI Assistant Concept
+The project includes:
+
+- User authentication interface
+- Task management workflow
+- Calendar organization
+- Productivity tracking
+- AI-inspired assistant interface concept
 
 Technologies:
 
@@ -82,15 +106,30 @@ Technologies:
 - Dart
 - Figma
 
+
+🔗 Project Details:
+
+https://amritha-lal.github.io/amritha_portfolio/tideai.html
+
+
 🔗 Portfolio:
+
 https://amritha-lal.github.io/amritha_portfolio/
 
 
 ---
 
-### 🌐 Personal Portfolio Website
 
-A personal developer portfolio website showcasing my projects, skills, and learning journey.
+## 🌐 Personal Developer Portfolio
+
+A responsive portfolio website created to showcase my projects, skills, and learning journey.
+
+Features:
+
+- Personal introduction
+- Project showcase
+- TIDE-AI project documentation
+- Responsive web design
 
 Built using:
 
@@ -105,20 +144,38 @@ Built using:
 https://amritha-lal.github.io/amritha_portfolio/
 
 
+🔗 Repository:
+
+https://github.com/AMRITHA-LAL/amritha_portfolio
+
+
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Advanced Python
+- Advanced Python Programming
 - JavaScript Development
 - Full Stack Development
 - Software Engineering Practices
+- Problem Solving
 
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Goals
+
+- Build real-world software projects
+- Improve development skills
+- Gain industry experience through internships
+- Contribute to open-source projects
+- Become a skilled software developer
+
+
+---
+
+# 📫 Connect With Me
+
 
 LinkedIn:
 
@@ -128,6 +185,11 @@ https://www.linkedin.com/in/amritha-lal-8558aa262
 Portfolio:
 
 https://amritha-lal.github.io/amritha_portfolio/
+
+
+GitHub:
+
+https://github.com/AMRITHA-LAL
 
 
 ---
