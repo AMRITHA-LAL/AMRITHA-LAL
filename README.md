@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpeg" width="180" height="180" style="border-radius:50%;" alt="Amritha Lal"/>
+<img src="./profile.jpeg" width="180" height="250" style="border-radius:50%;" alt="Amritha Lal"/>
 
 <h1>
 Hi, I'm Amritha Lal 👋
