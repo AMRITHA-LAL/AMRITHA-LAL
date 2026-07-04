@@ -11,17 +11,59 @@ Building practical software projects, designing intuitive user experiences, and 
 <br>
 
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/amritha-lal-8558aa262">
-<img src="./linkedin.jpeg" width="33"><br><b>CONNECT →</b>
-</a>&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/AMRITHA-LAL">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="33"><br><b>FOLLOW →</b>
-</a>&emsp;&emsp;&emsp;&emsp; <a href="https://amritha-lal.github.io/amritha_portfolio/">
-<img src="https://cdn.simpleicons.org/googleearth/2563EB" width="33"><br><b>VISIT →</b>
+<table>
+
+<tr>
+
+<td align="center" width="140">
+
+<a href="https://www.linkedin.com/in/amritha-lal-8558aa262" style="text-decoration:none;">
+
+<img src="./linkedin.jpeg" width="34">
+
+<br>
+
+<b>Connect →</b>
+
 </a>
 
-</p></div>
+</td>
+
+<td align="center" width="140">
+
+<a href="https://github.com/AMRITHA-LAL" style="text-decoration:none;">
+
+<img src="https://cdn.simpleicons.org/github/ffffff" width="33">
+
+<br>
+
+<b>Follow →</b>
+
+</a>
+
+</td>
+
+<td align="center" width="140">
+
+<a href="https://amritha-lal.github.io/amritha_portfolio/" style="text-decoration:none;">
+
+<img src="https://cdn.simpleicons.org/googleearth/2563EB" width="33" alt="Portfolio"/>
+
+
+
+<b>Visit →</b>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div></div>
 
 ---
 
