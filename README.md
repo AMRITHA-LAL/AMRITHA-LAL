@@ -21,7 +21,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <a href="https://www.linkedin.com/in/amritha-lal-8558aa262">
 
-<img src="./linkedin.png" width="34">
+<img src="./linkedin.jpeg" width="34">
 
 <br>
 
@@ -51,7 +51,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 🌐 <b>Portfolio</b>
 
-<br>
+<br><br>
 
 <b>Visit →</b>
 
