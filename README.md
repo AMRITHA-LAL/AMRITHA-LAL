@@ -56,7 +56,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <br>
 
-<b>VISIT →</b>
+<b>VISIT </b>
 
 </a>
 
