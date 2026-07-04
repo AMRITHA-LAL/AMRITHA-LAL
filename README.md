@@ -14,53 +14,53 @@ Building practical software projects, designing intuitive user experiences, and 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="140">
 
 <a href="https://www.linkedin.com/in/amritha-lal-8558aa262">
 
-<img src="./linkedin.jpeg" width="42" alt="LinkedIn"/>
+<img src="./linkedin.png" width="34">
 
-<br><br>
+<br>
 
-<b>CONNECT →</b>
+<b>Connect →</b>
 
 </a>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="140">
 
 <a href="https://github.com/AMRITHA-LAL">
 
-<img src="https://cdn.simpleicons.org/github/ffffff" width="42" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="34">
 
-<br><br>
+<br>
 
-<b>FOLLOW →</b>
+<b>Follow →</b>
 
 </a>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="140">
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/">
 
-
-
-<b>🌐PORTFOLIO</b>
+🌐 <b>Portfolio</b>
 
 <br>
-<br>
-<b>VISIT →</b>
+
+<b>Visit →</b>
 
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
 </div></div>
