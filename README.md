@@ -16,44 +16,36 @@ Building practical software projects, designing intuitive user experiences, and 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="230">
+
+<h3>🌐 Portfolio</h3>
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/" target="_blank">
-
-<img src="https://img.shields.io/badge/🌐-Portfolio-1E293B?style=for-the-badge&labelColor=0F172A&color=2563EB">
-
-<br>
-
-<img src="https://img.shields.io/badge/VISIT-2563EB?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/VISIT-2563EB?style=for-the-badge&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="230">
+
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55">
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/amritha-lal-8558aa262" target="_blank">
-
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="230">
+
+<img src="https://cdn.simpleicons.org/github/ffffff" width="55">
+
+<br><br>
 
 <a href="https://github.com/AMRITHA-LAL" target="_blank">
-
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logoColor=white">
 </a>
 
 </td>
@@ -62,7 +54,6 @@ Building practical software projects, designing intuitive user experiences, and 
 </table>
 
 </div>
-
 </div>
 
 ---
