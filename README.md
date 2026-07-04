@@ -14,21 +14,21 @@ Building practical software projects, designing intuitive user experiences, and 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/amritha-lal-8558aa262">
-<img src="./linkedin.jpeg" width="42"><br>
+<img src="./linkedin.jpeg" width="33"><br>
 <b>CONNECT →</b>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/AMRITHA-LAL">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="42"><br>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="33"><br>
 <b>FOLLOW →</b>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/">
-<img src="./portfolio.png" width="42"><br>
+<img src="https://cdn.simpleicons.org/googleearth/2563EB" width="33"><br>
 <b>VISIT →</b>
 </a>
 
