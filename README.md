@@ -31,7 +31,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 </td>
 
-<td align="center" width="140">
+<td align="center" width="138">
 
 <a href="https://github.com/AMRITHA-LAL" style="text-decoration:none;">
 
