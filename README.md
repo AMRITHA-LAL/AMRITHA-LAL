@@ -11,7 +11,7 @@ Building practical software projects, designing intuitive user experiences, and 
 <br>
 
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/amritha-lal-8558aa262"> &emsp;&emsp;&emsp; <a href="https://github.com/AMRITHA-LAL"> &emsp;&emsp;&emsp; <a href="https://amritha-lal.github.io/amritha_portfolio/"> 
 <img src="./linkedin.jpeg" width="33"> &emsp;&emsp;&emsp; <img src="https://cdn.simpleicons.org/github/ffffff" width="33"> &emsp;&emsp;&emsp; <img src="https://cdn.simpleicons.org/googleearth/2563EB" width="33"><br>
