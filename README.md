@@ -51,7 +51,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 🌐 <b>Portfolio</b>
 
-<br><br>
+
 
 <b>Visit →</b>
 
