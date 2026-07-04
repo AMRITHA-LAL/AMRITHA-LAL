@@ -10,18 +10,19 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <br>
 
+
 <div align="center">
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge&labelColor=374151"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amritha-lal-8558aa262" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AMRITHA-LAL" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
