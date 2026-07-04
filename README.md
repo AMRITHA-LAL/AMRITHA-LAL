@@ -48,15 +48,13 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/">
 
-🌐
 
-<br><br>
 
-<b>PORTFOLIO</b>
+<b>🌐PORTFOLIO</b>
 
 <br>
 
-<b>VISIT </b>
+<b>VISIT →</b>
 
 </a>
 
