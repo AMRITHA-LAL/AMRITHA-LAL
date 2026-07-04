@@ -31,11 +31,11 @@ Building practical software projects, designing intuitive user experiences, and 
 
 </td>
 
-<td align="center" width="138">
+<td align="center" width="140">
 
 <a href="https://github.com/AMRITHA-LAL" style="text-decoration:none;">
 
-<img src="https://cdn.simpleicons.org/github/ffffff" width="30">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="33">
 
 <br>
 
@@ -49,7 +49,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/" style="text-decoration:none;">
 
-<img src="https://cdn.simpleicons.org/googleearth/2563EB" width="42" alt="Portfolio"/>
+<img src="https://cdn.simpleicons.org/googleearth/2563EB" width="33" alt="Portfolio"/>
 
 
 
