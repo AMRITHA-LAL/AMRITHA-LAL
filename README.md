@@ -49,7 +49,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <a href="https://amritha-lal.github.io/amritha_portfolio/" style="text-decoration:none;">
 
-🌐 <b>Portfolio</b>
+<img src="https://cdn.simpleicons.org/googleearth/2563EB" width="42" alt="Portfolio"/>
 
 
 
