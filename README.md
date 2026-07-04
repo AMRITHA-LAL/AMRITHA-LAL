@@ -47,7 +47,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <td align="center" width="140">
 
-<a href="https://amritha-lal.github.io/amritha_portfolio/">
+<a href="https://amritha-lal.github.io/amritha_portfolio/" style="text-decoration:none;">
 
 🌐 <b>Portfolio</b>
 
