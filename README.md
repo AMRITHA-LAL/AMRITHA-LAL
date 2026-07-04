@@ -35,7 +35,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <a href="https://github.com/AMRITHA-LAL" style="text-decoration:none;">
 
-<img src="https://cdn.simpleicons.org/github/ffffff" width="33">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="30">
 
 <br>
 
