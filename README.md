@@ -19,7 +19,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <td align="center" width="140">
 
-<a href="https://www.linkedin.com/in/amritha-lal-8558aa262">
+<a href="https://www.linkedin.com/in/amritha-lal-8558aa262" style="text-decoration:none;">
 
 <img src="./linkedin.jpeg" width="34">
 
@@ -33,7 +33,7 @@ Building practical software projects, designing intuitive user experiences, and 
 
 <td align="center" width="140">
 
-<a href="https://github.com/AMRITHA-LAL">
+<a href="https://github.com/AMRITHA-LAL" style="text-decoration:none;">
 
 <img src="https://cdn.simpleicons.org/github/ffffff" width="34">
 
